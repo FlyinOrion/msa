@@ -1,2 +1,2 @@
-# msa
-Meissa: A Secure Decentralized Global Digital Ecosystem
+# The Meissa Project
+A Secure Decentralized Global Digital Ecosystem
